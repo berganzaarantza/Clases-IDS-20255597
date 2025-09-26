@@ -1,0 +1,47 @@
+### Desarrollo de Software
+- Consiste en crear y diseñar programas informáticos
+- Implica un análisis, codificación, probar y corregir errores
+- El objetivo es poder realizar tareas de maneras más eficientes
+
+### Arquitecto de Software
+- Diseña la estructura general del sistema de Software
+- Conocimiento técnico y entendimiento de varios lenguajes
+- Habilidades técnicas y blandas
+
+### Ingeniero de Software
+- Responsable de la codificación del software
+- Traduce los planos del arquitecto a código
+- Conocimiento en informática, lenguajes de programación y metodologías de desarrollo
+
+### Desarrollador de Software
+- Crea software de computadoras
+
+### Metodologías Ágiles
+- Ciclos cortos
+- Integración continua
+- Pruebas automatizadas
+- Despliegue continuo
+
+### ¿Qué es programar?
+- Consiste en dar instrucciones a un computador para que realice una tarea
+en específico. Las instrucciones deben ser claras, precisas y comprensibles
+para la máquina.
+
+### Algoritmo no es igual a Programa
+- Necesito identificar los pasos para llegar a la solución para luego pasar al lenguaje de programación
+
+### Rubber Duck Debugging
+- Tomar un patito de hule y explicarle en qué consiste mi código para poder identificar errores
+
+### Ventajas de programar
+- Reproducibilidad
+- Automatización
+- Comunicación
+
+### Lenguajes Compilados
+- Consiste en crear una copia escrita que la computadora sí entiende. Ya no es mi código fuente
+- Se compila en un lenguaje comprensible para la máquina
+
+### Lenguajes Interpretados
+- Se requiere de un intérprete pues la computadora no habla R ni Python
+- Este intérprete le da a la computadora mi código en el equivalente de ceros y unos

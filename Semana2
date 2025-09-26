@@ -1,0 +1,20 @@
+### Algoritmos
+- Un algoritmo es un conjunto finito de instrucciones no ambiguas que, dado
+un conjunto de condiciones iniciales, se puede ejecutar en una secuencia para
+lograr un objetivo determinado.
+  Debe cumplir:
+  - Inicio
+  - Fin
+  - Ordenado
+  - Finito
+
+### Ejemplo
+- Los pasos (secuencia) a seguir para hornear un pastel, como comprar los ingredientes,
+mezclarlos, hornear, servir.
+
+### Ayudantía
+
+### Problema de los sombreros y personas abducidas por aliens(?
+- Asignarle par o impar a cualquiera de los colores de los sombreros, ya sean negros o blancos. 
+Por ejemplo: blanco es par y negro es impar
+
