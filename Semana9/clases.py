@@ -83,3 +83,48 @@ for person in instruments:
     print(person,instruments)
 
 
+# Este es un docstring de Modulo
+# Vamos a crear varias funciones
+
+def saludar():
+    """Es una funcion que va a saludar"""
+    print("Hola mundo!")
+
+saludar()
+
+
+def saludar():
+    """Es una funcion que va a saludar"""
+    nombre = input("Digite el nombre: ")
+    apellido = input("Digite el apellido: ")  
+    nombre_completo = f"{nombre.title()} {apellido.title()}"
+    print(f"Hola {nombre_completo}")
+
+
+def saludar_con_param(nombre): # Nombre es un parametro cuando defino la funcion
+    """Es una funcion que va a saludar"""
+
+    print(f"Hola {nombre}")
+
+saludar_con_param("Fer") # Fer es un argumento, pues estoy llamando a la funcion
+
+
+def saludar_con_param(nombre,apellido): # Nombre es un parametro cuando defino la funcion
+    """Es una funcion que va a saludar"""
+
+    print(f"Hola {nombre.title()} {apellido.title()}")
+
+saludar_con_param("cami","berganza")
+saludar_con_param("CAMILA", "BERGANZA")
+
+
+def describir_mascota(animal, nombre_mascota):
+    """Vamos a describir mascotas."""
+    print(f"Tengo un {animal.lower()} y su nombre es {nombre_mascota.title()}")
+
+describir_mascota("gato","leona")
+describir_mascota(nombre_mascota="leona",animal="gato")
+describir_mascota(
+    input("Digite el tipo de animal: "),
+    input("Digite el nombre de la mascota: ")
+)
